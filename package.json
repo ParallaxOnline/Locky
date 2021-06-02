@@ -1,0 +1,19 @@
+{
+  "name": "locky",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/axisiscool/Locky",
+  "author": "Axis <axis@axis.ovh>",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "cookiecord": "axisiscool/cookiecord#stable",
+    "discord-command-parser": "^1.5.3",
+    "discord.js-light": "^3.5.11",
+    "utf-8-validate": "^5.0.5",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}

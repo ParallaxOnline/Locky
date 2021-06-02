@@ -1,0 +1,8 @@
+# Node Modules
+node_modules/
+
+# Enviornment Files
+*.env
+
+# Output Files
+dist/
