@@ -8,7 +8,6 @@
   "dependencies": {
     "bufferutil": "^4.0.3",
     "cookiecord": "axisiscool/cookiecord#stable",
-    "discord-command-parser": "^1.5.3",
     "discord.js-light": "^3.5.11",
     "utf-8-validate": "^5.0.5",
     "zlib-sync": "^0.1.7"

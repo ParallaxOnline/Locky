@@ -97,11 +97,6 @@ delayed-stream@~1.0.0:
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha1-3zrhmayt+31ECqrgsp4icrJOxhk=
 
-discord-command-parser@^1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/discord-command-parser/-/discord-command-parser-1.5.3.tgz#ba27097aa0976fa9287ea81f8d8cdd82f2887317"
-  integrity sha512-YWgalkrbly0dJCyLw7p9SX3RC7HIxOrSTz/8vKjlmYPyyZmMCGmKwpXu6HkPXRZ20L6QqftVWigSw6fDK2zemg==
-
 discord.js-light@^3.5.11:
   version "3.5.11"
   resolved "https://registry.yarnpkg.com/discord.js-light/-/discord.js-light-3.5.11.tgz#169058ca38ddb1b58e220a7377352cf51e0f8932"
